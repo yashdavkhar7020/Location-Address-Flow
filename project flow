@@ -1,0 +1,22 @@
+location-address-flow
+├── frontend
+│   ├── public
+│   │   └── index.html
+│   ├── src
+│   │   ├── components
+│   │   │   ├── AddressForm.js
+│   │   │   ├── LocationPrompt.js
+│   │   │   ├── ManageAddresses.js
+│   │   │   └── MapComponent.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── App.css
+│   └── .env
+├── backend
+│   ├── models
+│   │   └── Address.js
+│   ├── routes
+│   │   └── addressRoutes.js
+│   ├── server.js
+│   └── .env
+└── README.md
